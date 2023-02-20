@@ -1,6 +1,6 @@
 # First milestone project: Tic Tac Toe
 # The Complete Python Bootcamp from zero to hero by Jose Portilla
-# Made bo me according to the steps from the course
+# Made with the support from the course
 # https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/04-Milestone%
 # 20Project%20-%201/02-Milestone%20Project%201%20-%20Walkthrough%20Steps%20Workbook.ipynb
 
